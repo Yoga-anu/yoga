@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: o;
+}
+
+
+.name{
+    color: blue;
+    margin-left: 20px;
+    height: 4vh;
+   
+}
+
+
+.yob{
+    color: blue;
+    margin-left: 20px;
+    padding-left: 30px;
+    height: 4vh;
+}
+
+.pass{
+    color: blue;
+    margin-left: 20px;
+    padding-left: 5px;
+    height: 4vh;
+}
+
+.em{
+    
+    color: blue;
+    margin-left: 20px;
+    padding-left: 30px;
+    height: 4vh;
+}
+
+.ab{
+    color: blue;
+    margin-left: 20px;
+    padding-left: 30px;
+    height: 6vh;
+}
+
+.che{
+    color: blue;
+    margin-left: 30px;
+    padding-left: 70px;
+    height: 4vh;
+    
+
+}
+
+
+.gen{
+    color: blue;
+    margin-left: 20px;
+    padding-left: 30px;
+    height: 4vh;
+}
+
+.sta{
+    color: blue;
+    margin-left: 20px;
+    padding-left: 40px;
+    height: 4vh;
+}
+
+.fi{
+    color: blue;
+    margin-left: 20px;
+    padding-left: 20px;
+    height: 10vh;
+    
+}
+
+
+.fo{
+    color: black;
+    margin-left: 20px;
+    padding-left: 20px;
+    height: 8vh;
+}
+
+
+.image{
+    width: 200px;
+   
+}
+
+.overall{
+    outline:auto;
+    margin-left: 500px;
+    margin-right: 700px;
+    align-items: center;
+    margin-top: 5vh;
+
+}

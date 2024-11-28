@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.overall{
+    outline:auto;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-right: 10px;
+    margin-bottom: 100px;
+    font-size: small;
+    text-align: center;
+    
+}
+
+
+.overall1{
+    display: flex;
+    bottom: 0%;
+    width: 100%;
+}
+
+
+.ho{
+    color: blue;
+    height: 5vh;
+    padding: 20px;
+    margin-left: 500px;
+}
+
+.end{
+    color: blue;
+    height: 5vh;
+    padding: 20px;
+
+}
+
+
+.ga{
+    color: blue;
+    height: 5vh;
+    padding: 20px;
+}
+
+.re{
+    color: blue;
+    height: 5vh;
+    padding: 20px;
+}
+
+
+.ne{
+    color: blue;
+    height: 5vh;
+    padding: 20px;
+}
+
+
+.con{
+    color: blue;
+    height: 5vh;
+    padding: 20px;
+}
+
+.lo{
+    color: blue;
+    height: 5vh;
+    padding: 20px;
+}
+
+
+.fo{
+    display: flex;
+    margin-left: 1100px;
+    height: 5vh;
+}
+
+
